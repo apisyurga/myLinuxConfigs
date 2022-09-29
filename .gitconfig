@@ -1,6 +1,6 @@
 [user]
-    name = Ahmad Firdaus Ahmad Fadzil
-    email = ahmadfirdaus.ahmadfadzil@openet.com
+    name = My Name
+    email = myEmailAddress@example.com
 [credential]
     helper = cache --timeout=86400
 [diff]
